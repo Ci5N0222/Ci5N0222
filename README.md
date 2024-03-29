@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ### 안녕하세요 개발자 노시온입니다. 👋
-
+다양한 도전과 경험을 통해 성장하는 프론트엔드 개발자 노시온입니다. <br />
+전 회사 ABC.lab에서 효성그룹 프로젝트 SDK 개발에 참여하였고 개발된 SDK를 토대로 자체적인 블록체인 지갑 앱, 확장프로그램 개발을 진행한 경험이 있습니다. <br />
+개발자로서 부족함을 채우기 위해 온라인 강의를 수강중이며, 강의 내용을 이해하며 활용하기 위한 프로젝트를 진행하고 있습니다.
 
 ##
 ### Project
