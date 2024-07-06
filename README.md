@@ -3,7 +3,8 @@
 ### 안녕하세요 개발자 노시온입니다. 👋
 다양한 도전과 경험을 통해 성장하는 개발자 노시온입니다. <br />
 전 회사 ABC.lab에서 효성그룹 프로젝트 SDK 개발에 참여하였고 개발된 SDK를 토대로 자체적인 블록체인 지갑 앱, 확장프로그램 개발을 진행한 경험이 있습니다. <br />
-지금은 풀스택 개발자가 되기 위해 노력하고 있으며, 부족함을 채우기 위해 온라인 강의를 수강, 강의 내용을 이해하며 활용하기 위한 프로젝트를 진행하고 있습니다. <br />
+지금은 풀스택 개발자가 되기 위해 노력하고 있습니다. <br />
+부족함을 채우기 위해 온라인 강의를 수강하고, 개인 프로젝트를 진행하였으며, 더 전문적으로 공부하고 싶어 K-Degital Java, React 과정을 진행하고 있습니다. <br />
 
 ##
 ### Project
@@ -16,10 +17,12 @@ ABC.lab
 ## 
 ### Study
 
+K-Degital Academy
+- First : https://github.com/Ci5N0222/Wolf-Project
+
 React study
 - Todo Project : https://github.com/Ci5N0222/todo-app
 - Clone Project : https://github.com/Ci5N0222/youtube-clone
-- shopping-mini Project : https://github.com/Ci5N0222/shopping-mini
 
 ## 
 ### My github stats 
