@@ -17,9 +17,11 @@ ABC.lab
 ## 
 ### Study
 
-K-Degital Academy
-- First : https://github.com/Ci5N0222/Wolf-Project
-- Second : https://github.com/GroupwareTeamClover
+K-Degital Academy Study & Project
+- Study : https://github.com/Ci5N0222/Academy_Study
+- First Project : https://github.com/Ci5N0222/Wolf-Project
+- Second Project : https://github.com/GroupwareTeamClover
+- Third Project : https://github.com/Ci5N0222/Hows
 
 React study
 - Todo Project : https://github.com/Ci5N0222/todo-app
