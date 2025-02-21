@@ -15,29 +15,28 @@
   - iOS : https://apps.apple.com/kr/app/kthulu-wallet/id1644852081
  
 #### NextICT ( 24.10 ~ )
--GiGAeyes 서비스 운영
+- KTT GiGAeyes 서비스 운영
 ## 
 ### Study
 
 K-Degital Academy Study & Project
-- Study : https://github.com/Ci5N0222/Academy_Study
+- Class contents : https://github.com/Ci5N0222/Academy_Study
 - First Project : https://github.com/Ci5N0222/Wolf-Project
 - Second Project
 https://github.com/GroupwareTeamClover/GroupwareClover
 - Third Project : https://github.com/Ci5N0222/Hows
 
-React study
+My study
+- https://github.com/Ci5N0222/Programming-Study
+
+
+Toy project
 - Portfolio :
 https://ci5n0222.github.io/ ( 제작중 )
 - Todo Project : https://github.com/Ci5N0222/todo-app
 - Clone Project : https://github.com/Ci5N0222/youtube-clone
 
 ## 
-### My github stats 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ci5N0222&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ci5N0222&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</div>
 
 
 
