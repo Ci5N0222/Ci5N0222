@@ -7,22 +7,28 @@
 
 ##
 ### Project
-ABC.lab
+#### ABC.lab ( 23.05 ~ 24.01 )
 - Kthulu
   - 블록체인 지갑 프로젝트
   - SDK DOCS : https://docs.kthulu.io/about/sdk
   - Android : https://play.google.com/store/apps/details?id=io.kthulu.abc&hl=en-KR
   - iOS : https://apps.apple.com/kr/app/kthulu-wallet/id1644852081
+ 
+#### NextICT ( 24.10 ~ )
+-GiGAeyes 서비스 운영
 ## 
 ### Study
 
 K-Degital Academy Study & Project
 - Study : https://github.com/Ci5N0222/Academy_Study
 - First Project : https://github.com/Ci5N0222/Wolf-Project
-- Second Project : https://github.com/GroupwareTeamClover
+- Second Project
+https://github.com/GroupwareTeamClover/GroupwareClover
 - Third Project : https://github.com/Ci5N0222/Hows
 
 React study
+- Portfolio :
+https://ci5n0222.github.io/ ( 제작중 )
 - Todo Project : https://github.com/Ci5N0222/todo-app
 - Clone Project : https://github.com/Ci5N0222/youtube-clone
 
