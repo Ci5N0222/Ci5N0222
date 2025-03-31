@@ -6,7 +6,10 @@
 현재 풀스택 개발자가 되기 위해 노력하고 있으며, 더 전문적인 공부를 위해 K-Degital Java, React 풀스택 과정을 추가적으로 진행하였으며, 웹 개발에 대한 학습 및 실습을 꾸준히 하고 있습니다. <br />
 
 ##
-### Project
+### Career
+#### NextICT ( 24.10 ~ )
+- KTT GiGAeyes 서비스 운영
+
 #### ABC.lab ( 23.05 ~ 24.01 )
 - Kthulu
   - 블록체인 지갑 프로젝트
@@ -14,9 +17,16 @@
   - Android : https://play.google.com/store/apps/details?id=io.kthulu.abc&hl=en-KR
   - iOS : https://apps.apple.com/kr/app/kthulu-wallet/id1644852081
  
-#### NextICT ( 24.10 ~ )
-- KTT GiGAeyes 서비스 운영
 ## 
+#### License
+- SQLD 합격( 2025.04 )
+- 정보처리 기사 필기 합격( 2025.03 )
+- 정보처리 산업기사 취득( 2023.05 )
+
+##
+#### 학력
+- 고려사이버대학교 4학년 재학중( 26.02 졸업 예정 )
+
 ### Study
 
 K-Degital Academy Study & Project
