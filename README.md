@@ -8,7 +8,8 @@
 ##
 ### Career
 #### NextICT ( 24.10 ~ )
-- KTT GiGAeyes 서비스 운영
+- Kyowon 문해력 개발 ( 25.05 ~ )
+- KTT GiGAeyes 운영 ( 24.10 ~ 25.04 )
 
 #### ABC.lab ( 23.05 ~ 24.01 )
 - Kthulu
