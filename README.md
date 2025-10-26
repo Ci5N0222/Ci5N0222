@@ -37,6 +37,7 @@ K-Degital Academy Study & Project
 https://github.com/GroupwareTeamClover/GroupwareClover
 - Third Project : https://github.com/Ci5N0222/Hows
 
+<!--
 My study
 - https://github.com/Ci5N0222/Programming-Study
 
@@ -46,7 +47,7 @@ Toy project
 https://ci5n0222.github.io/ ( 제작중 )
 - Todo Project : https://github.com/Ci5N0222/todo-app
 - Clone Project : https://github.com/Ci5N0222/youtube-clone
-
+-->
 ## 
 
 
