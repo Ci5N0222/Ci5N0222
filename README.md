@@ -19,15 +19,16 @@
   - iOS : https://apps.apple.com/kr/app/kthulu-wallet/id1644852081
  
 ## 
-#### License
+### License
 - 정보처리 기사 취득( 2025.09 )
 - SQLD 합격( 2025.04 )
 - 정보처리 산업기사 취득( 2023.05 )
 
-##
-#### 학력
+## 
+### Education
 - 고려사이버대학교 4학년 재학중( 26.02 졸업 예정 )
 
+##
 ### Study
 
 K-Degital Academy Study & Project
