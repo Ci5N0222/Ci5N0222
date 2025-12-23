@@ -9,18 +9,19 @@
 ### Career
 #### 프리랜서 ( 2025.10 ~ )
 - 교원 도요새 운영 및 신규 기능 개발 (2025.10 ~ )
-- 
+
 #### NextICT ( 24.10 ~ 25.10)
-- 교원 퍼펙트 문해 개발 ( 25.05 ~ 2025.11)
+- 교원 퍼펙트 문해 개발 ( 25.05 ~ 2025.10)
 - KTT GiGAeyes 운영 ( 24.10 ~ 25.04 )
 
 #### ABC.lab ( 23.05 ~ 24.01 )
-- Kthulu
-  - 블록체인 지갑 프로젝트
+- 블록체인 SDK 개발
+- Kthulu 블록체인 지갑 개발
   - SDK DOCS : https://docs.kthulu.io/about/sdk
   - Android : https://play.google.com/store/apps/details?id=io.kthulu.abc&hl=en-KR
   - iOS : https://apps.apple.com/kr/app/kthulu-wallet/id1644852081
- 
+- 트랜스 브릿지 테스트넷 개발
+
 ## 
 ### License
 - 정보처리 기사 취득( 2025.09 )
